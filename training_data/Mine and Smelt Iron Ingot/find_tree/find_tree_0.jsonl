@@ -1,0 +1,8 @@
+{"Behavior": ["walk", "tree", "Plains_Biome", "n/a"], "reasoning": "To find and locate a tree, the player needs to physically move through the Plains Biome until a tree is found. Trees are essential for crafting basic tools and obtaining charcoal if needed, which is a part of preparing for the task of mining and smelting iron."}
+
+{"Biome": "Plains_Biome", "Environment": [["tree", "close_infront"], ["grass_block", "all_around"], ["sun", "far_above"], ["sheep", "semi-close_left"]], "Health": 19, "Hunger": 14, "Inventory": [["wooden pickaxe", 1], ["apple", 3], ["coal", 5], ["n/a"], ["n/a"]]}
+
+{"Memories": [["n/a", "n/a", "n/a", [["n/a", "n/a"], ["n/a", "n/a"], ["n/a", "n/a"], ["n/a", "n/a"]], "n/a"], ["n/a", "n/a", "n/a", [["n/a", "n/a"], ["n/a", "n/a"], ["n/a", "n/a"], ["n/a", "n/a"]], "n/a"], ["n/a", "n/a", "n/a", [["n/a", "n/a"], ["n/a", "n/a"], ["n/a", "n/a"], ["n/a", "n/a"]], "n/a"], ["n/a", "n/a", "n/a", [["n/a", "n/a"], ["n/a", "n/a"], ["n/a", "n/a"], ["n/a", "n/a"]], "n/a"]]}
+
+{"Environment_Behaviors": [["grass_block", "n/a", "n/a", [["grass_block", "all_around"], ["stone", "far_below"], ["sun", "far_above"], ["horse", "distant_left"]], "n/a"], ["stone", "n/a", "n/a", [["grass_block", "all_around"], ["stone", "far_below"], ["sun", "far_above"], ["horse", "distant_left"]], "n/a"], ["sun", "n/a", "n/a", [["grass_block", "all_around"], ["stone", "far_below"], ["sun", "far_above"], ["horse", "distant_left"]], "n/a"], ["horse", "n/a", "n/a", [["grass_block", "all_around"], ["stone", "far_below"], ["sun", "far_above"], ["horse", "distant_left"]], "n/a"]]}
+

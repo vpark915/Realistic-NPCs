@@ -1,0 +1,133 @@
+{
+    "Scenario": "You've stumbled upon a vast Plains biome filled with wild horses and expansive fields of tall grass.",
+    "Goal": "Tame a horse."
+}
+{
+    "Environment": [
+        ["horse", "semi-close infront"],
+        ["tall grass", "close left"],
+        ["tree", "far right"],
+        ["lake", "distant behind"]
+    ],
+    "Health": 20,
+    "Hunger": 16,
+    "Inventory": [
+        ["apple", 3],
+        ["lead", 1],
+        ["saddle", 1],
+        ["wheat", 10],
+        ["iron sword", 1]
+    ]
+}
+{
+    "short_term_memories": [
+        [
+            "self",
+            "walk",
+            "Plains",
+            "n/a",
+            0,
+            [
+                ["tree", "distant right"],
+                ["river", "close left"],
+                ["cow", "semi-close infront"],
+                ["mountain", "far behind"]
+            ]
+        ],
+        [
+            "self",
+            "interact",
+            "tree",
+            "iron axe",
+            1,
+            [
+                ["tree", "infront"],
+                ["sapling", "below"],
+                ["grass", "left"],
+                ["sheep", "far right"]
+            ]
+        ],
+        [
+            "self",
+            "run",
+            "lake",
+            "n/a",
+            2,
+            [
+                ["lake", "close infront"],
+                ["sand", "right"],
+                ["fish", "semi-close infront"],
+                ["forest", "far behind"]
+            ]
+        ],
+        [
+            "self",
+            "interact",
+            "apple",
+            "apple",
+            3,
+            [
+                ["apple", "inhand"],
+                ["river", "semi-close left"],
+                ["flower", "close right"],
+                ["chicken", "semi-close behind"]
+            ]
+        ]
+    ]
+}
+{
+    "long_term_memories": [
+        [
+            "self",
+            "interact",
+            "horse",
+            "apple",
+            "recently",
+            [
+                ["horse", "close infront"],
+                ["tree", "close left"],
+                ["grass", "semi-close right"],
+                ["river", "distant behind"]
+            ]
+        ],
+        [
+            "self",
+            "craft",
+            "lead",
+            "n/a",
+            "a while",
+            [
+                ["slime", "semi-close left"],
+                ["cow", "far right"],
+                ["crafting table", "close infront"],
+                ["plains", "distant behind"]
+            ]
+        ],
+        [
+            "self",
+            "craft",
+            "saddle",
+            "n/a",
+            "long time",
+            [
+                ["leather", "close infront"],
+                ["iron ingot", "semi-close left"],
+                ["crafting table", "close right"],
+                ["forest", "distant behind"]
+            ]
+        ],
+        [
+            "self",
+            "walk",
+            "plains",
+            "n/a",
+            "yesterday",
+            [
+                ["horse", "semi-close infront"],
+                ["tall grass", "close left"],
+                ["tree", "far right"],
+                ["lake", "distant behind"]
+            ]
+        ]
+    ]
+}

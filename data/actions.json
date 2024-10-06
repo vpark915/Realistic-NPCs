@@ -1,0 +1,13 @@
+{
+    "actions":[
+        {"Interact":0},
+        {"Punch":1},
+        {"Break":2},
+        {"Use":3},
+        {"Talk":4},
+        {"Walk":5},
+        {"Run":6},
+        {"Place":7},
+        {"Craft":7}
+    ]
+}

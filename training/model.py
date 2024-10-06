@@ -1,73 +1,37 @@
-import torch
-import torch.nn as nn
-import torch.optim as optim
-from process import flatten_and_pad_sequences
+# mlp for binary classification
+from pandas import read_csv
+from sklearn.model_selection import train_test_split
+from sklearn.preprocessing import LabelEncoder
+from tensorflow.python.keras.layers import Dense
+from tensorflow.python.keras import Sequential
 
-# Define the model class
-class NPCModel(nn.Module):
-        def __init__(self):
-            super(NPCModel, self).__init__()
-            self.fc1 = nn.Linear(3, 10)  # Input layer to hidden layer
-            self.fc2 = nn.Linear(10, 20)  # Hidden layer to output layer
-
-        def forward(self, x):
-            x = torch.relu(self.fc1(x))  # ReLU activation
-            x = self.fc2(x)  # Linear output
-            return x
-
-# Step 1: Prepare the Data
-inputs = []
-outputs = []
-
-def train_model(input_data, output_data):
-    input_data = flatten_and_pad_sequences(input_data)
-    output_data = flatten_and_pad_sequences(output_data)
-    model = NPCModel()
-
-    # Step 3: Set Loss and Optimizer
-    criterion = nn.MSELoss()
-    optimizer = optim.Adam(model.parameters(), lr=0.01)
-
-    # Step 4: Train the Model
-    epochs = 500
-    for epoch in range(epochs):
-        # Zero the parameter gradients
-        optimizer.zero_grad()
-
-        # Forward pass
-        predictions = model(input_data)
-
-        # Compute loss
-        loss = criterion(predictions, output_data)
-
-        # Backward pass and optimize
-        loss.backward()
-        optimizer.step()
-
-        if (epoch + 1) % 50 == 0:
-            print(f'Epoch [{epoch+1}/{epochs}], Loss: {loss.item():.4f}')
-    
-    # Save the model
-    torch.save(model.state_dict(), 'models/model.pth')
-    print("Model saved to models/model.pth")
-    return model
-
-def test_model(model, test_inputs, test_outputs):
-    model.eval()  # Set the model to evaluation mode
-    with torch.no_grad():
-        predictions = model(test_inputs)
-        print("Test Inputs:\n", test_inputs)
-        print("Test Outputs:\n", test_outputs)
-        print("Predicted Outputs:\n", predictions)
-
-# Train the model
-trained_model = train_model(inputs, outputs)
-
-# Load the model (optional, if you want to test loading the saved model)
-model = NPCModel()
-model.load_state_dict(torch.load('models/model.pth'))
-model.eval()  # Set the model to evaluation mode
-print("Model loaded from models/model.pth")
-
-# Test the model
-test_model(trained_model, inputs, outputs)
+# load the dataset
+path = 'https://raw.githubusercontent.com/jbrownlee/Datasets/master/ionosphere.csv'
+df = read_csv(path, header=None)
+# split into input and output columns
+X, y = df.values[:, :-1], df.values[:, -1]
+# ensure all data are floating point values
+X = X.astype('float32')
+# convert to float32 to match 
+y = LabelEncoder().fit_transform(y)
+# split into train and test datasets
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.33)
+print(X_train.shape, X_test.shape, y_train.shape, y_test.shape)
+# determine the number of input features
+n_features = X_train.shape[1]
+# define model
+model = Sequential()
+model.add(Dense(10, activation='relu', kernel_initializer='he_normal', input_shape=(n_features,)))
+model.add(Dense(8, activation='relu', kernel_initializer='he_normal'))
+model.add(Dense(1, activation='sigmoid'))
+# compile the model
+model.compile(optimizer='adam', loss='binary_crossentropy', metrics=['accuracy'])
+# fit the model
+model.fit(X_train, y_train, epochs=150, batch_size=32, verbose=0)
+# evaluate the model
+loss, acc = model.evaluate(X_test, y_test, verbose=0)
+print('Test Accuracy: %.3f' % acc)
+# make a prediction
+row = [1,0,0.99539,-0.05889,0.85243,0.02306,0.83398,-0.37708,1,0.03760,0.85243,-0.17755,0.59755,-0.44945,0.60536,-0.38223,0.84356,-0.38542,0.58212,-0.32192,0.56971,-0.29674,0.36946,-0.47357,0.56811,-0.51171,0.41078,-0.46168,0.21266,-0.34090,0.42267,-0.54487,0.18641,-0.45300]
+yhat = model.predict([row])
+print('Predicted: %.3f' % yhat)
