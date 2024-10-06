@@ -1,2 +1,2 @@
 # Training Architecture
-![alt text](https://drive.google.com/file/d/1lftx4imyxk7BWNUwK9iZXDS6lGG0xkFD)
+![alt text](https://github.com/vpark915/Realistic-NPCs/blob/main/NPC-Training-Architecture.png?raw=true)
