@@ -1,0 +1,8 @@
+{"Behavior": ["break", "iron_ore", "close_in_front", "stone pickaxe"], "reasoning": "The player is currently focused on gathering 20 iron ore as part of their step goal. With 16 already collected, breaking the nearby iron ore will bring the player closer to the target. The player has been consistently using the stone pickaxe for this task, which is efficient for breaking iron ore in Minecraft."}
+
+{"Biome": "Taiga_Biome", "Environment": [["cave_interior", "close_infront"], ["torch", "close_right"], ["cobblestone", "close_infront_below"], ["iron_ore", "close_right_infront"]], "Health": 16, "Hunger": 18, "Inventory": [["spruce_log", 12], ["wooden_axe", 1], ["crafting_table", 1], ["wooden_pickaxe", 2], ["cobblestone", 18], ["stone_pickaxe", 1], ["stone_sword", 1], ["iron_ore", 17], ["n/a"], ["n/a"]], "Armor": ["n/a", "n/a", "n/a", "n/a"]}
+
+{"Memories": [["Self", "break", "iron_ore", [["cave_interior", "close_infront"], ["torch", "close_right"], ["iron_ore", "very_close_left"], ["bat", "semi_close_upperleft"]], "stone_pickaxe"], ["Self", "break", "iron_ore", [["cave_interior", "very_close_infront"], ["torch", "close_right"], ["iron_ore", "close_infront"], ["bat", "close_upperright"]], "stone_pickaxe"], ["Self", "break", "iron_ore", [["cave_interior", "close_infront"], ["torch", "close_right"], ["iron_ore", "close_infront"], ["bat", "semi-close_upperright"]], "stone_pickaxe"], ["Self", "break", "iron_ore", [["cave_interior", "close_infront"], ["torch", "close_right"], ["iron_ore", "close_infront"], ["bat", "semi-close_upperright"]], "stone_pickaxe"]]}
+
+{"Environment_Behaviors": [["cave_interior", "n/a", "n/a", "n/a"], ["torch", "n/a", "n/a", "n/a"], ["iron_ore", "n/a", "n/a", "n/a"], ["cobblestone", "n/a", "n/a", "n/a"]]}
+

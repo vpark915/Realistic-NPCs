@@ -1,0 +1,8 @@
+{"Behavior": ["walk", "coal_ore", "far_right", "n/a"], "reasoning": "The player needs to collect more coal to reach 20 coal as part of their current step. The nearest coal ore is far on the right, so the player will walk towards it to get within range to mine it with their stone pickaxe."}
+
+{"Biome": "Taiga_Biome", "Environment": [["cave_interior", "around"], ["torch", "semi-close_left"], ["coal_ore", "close_right"], ["stone", "right"]], "Health": 16, "Hunger": 18, "Inventory": [["spruce_log", 12], ["wooden_axe", 1], ["crafting_table", 1], ["wooden_pickaxe", 2], ["cobblestone", 18], ["stone_pickaxe", 1], ["stone_sword", 1], ["iron_ore", 21], ["coal", 11], ["n/a"]], "Armor": ["n/a", "n/a", "n/a", "n/a"]}
+
+{"Memories": [["Self", "walk", "coal_ore", [["cave_interior", "around"], ["torch", "infront"], ["cobblestone", "semi-close_left"], ["coal", "collected"]], "n/a"], ["Self", "break", "coal_ore", [["cave_interior", "around"], ["torch", "semi-close_left"], ["cobblestone", "far_left"], ["coal_ore", "close_right"]], "stone_pickaxe"], ["Self", "break", "coal_ore", [["cave_interior", "around"], ["torch", "infront"], ["cobblestone", "semi-close_left"], ["coal_ore_vein", "close_right"]], "stone_pickaxe"], ["Self", "break", "coal_ore", [["cave_interior", "around"], ["torch", "semi-close_left"], ["broken_coal_ore", "close_right"], ["coal_ore", "close_right"]], "stone_pickaxe"]]}
+
+{"Environment_Behaviors": [["cave_interior", "n/a", "n/a", "n/a"], ["torch", "n/a", "n/a", "n/a"], ["coal_ore", "n/a", "n/a", "n/a"], ["stone", "n/a", "n/a", "n/a"]]}
+

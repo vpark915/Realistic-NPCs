@@ -1,0 +1,8 @@
+{"Behavior": ["walk", "torch", "close_left", "n/a"], "reasoning": "In order to craft an iron armor set, the player needs to smelt the iron ore into iron ingots first. To smelt iron ore, the player requires a furnace; however, crafting a furnace requires 8 cobblestones, which the player already has. The player should walk towards the torch for visibility while crafting the furnace in the cave."}
+
+{"Biome": "Taiga_Biome", "Environment": [["cave_interior", "around"], ["torch", "infront"], ["cobblestone", "semi-close_left"], ["iron_ore_vein", "close_right"]], "Health": 16, "Hunger": 18, "Inventory": [["spruce_log", 12], ["wooden_axe", 1], ["crafting_table", 1], ["wooden_pickaxe", 2], ["cobblestone", 18], ["stone_pickaxe", 1], ["stone_sword", 1], ["iron_ore", 20], ["n/a"], ["n/a"]], "Armor": ["n/a", "n/a", "n/a", "n/a"]}
+
+{"Memories": [["Self", "pick_up", "iron_ore", [["cave_interior", "close_infront"], ["torch", "close_right"], ["iron_ore_dropped_item", "broken_very_close_left"], ["bat", "semi_close_upperleft"]], "n/a"], ["Self", "pick_up", "Iron Ore Dropped Item", [["cave_interior", "close_infront"], ["torch", "close_right"], ["cobblestone", "close_infront_below"], ["iron_ore_dropped_item", "close_right_infront"]], "n/a"], ["Self", "break", "iron_ore", [["cave_interior", "close_infront"], ["torch", "close_right"], ["bat", "semi_close_upperright"], ["iron_ore", "close_infront"]], "stone_pickaxe"], ["Self", "break", "iron_ore", [["cave_interior", "very_close_infront"], ["torch", "close_right"], ["bat", "close_upperright"], ["iron_ore", "close_infront"]], "stone_pickaxe"]]}
+
+{"Environment_Behaviors": [["cave_interior", "n/a", "n/a", "n/a"], ["torch", "n/a", "n/a", "n/a"], ["cobblestone", "n/a", "n/a", "n/a"], ["iron_ore_vein", "n/a", "n/a", "n/a"]]}
+

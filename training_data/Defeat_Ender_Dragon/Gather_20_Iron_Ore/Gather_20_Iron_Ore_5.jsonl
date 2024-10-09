@@ -1,0 +1,8 @@
+{"Behavior": ["mine", "iron_ore", "close_in_front", "stone_pickaxe"], "reasoning": "The task at hand is to gather 20 iron ore. Since there is iron ore close in front of me and I have a stone pickaxe in my inventory, mining the iron ore allows me to progress towards my goal. A stone pickaxe is required to successfully mine iron ore without losing the resource, so I use it in this action."}
+
+{"Biome": "Taiga_Biome", "Environment": [["cave_entrance", "semi-close_behind"], ["iron_ore", "close_right"], ["stone", "close_infront"], ["fox", "semi-close_left"]], "Health": 16, "Hunger": 18, "Inventory": [["spruce_log", 12], ["wooden_axe", 1], ["crafting_table", 1], ["wooden_pickaxe", 2], ["cobblestone", 15], ["stone_pickaxe", 1], ["stone_sword", 1], ["iron_ore", 1], ["n/a"], ["n/a"]], "Armor": ["n/a", "n/a", "n/a", "n/a"]}
+
+{"Memories": [["Self", "walk", "iron_ore", [["cave_entrance", "close_infront"], ["iron_ore", "semi-close_infront"], ["stone_sword", "close_left"], ["fox", "close_behind"]], "stone_pickaxe"], ["Self", "walk", "cave", [["cave_entrance", "semi-close_infront"], ["stone_sword", "right"], ["cobblestone", "semi-close_around"], ["fox", "close_behind"]], "n/a"], ["Self", "walk", "cave", [["stone_sword", "far_right"], ["cobblestone", "close_around"], ["fox", "close_behind"], ["spruce_tree", "right"]], "n/a"], ["Self", "walk", "cobblestones", [["stone_sword", "further_right"], ["cobblestone", "more_scattered"], ["fox", "close_infront"], ["spruce_tree", "further_left"]], "n/a"]]}
+
+{"Environment_Behaviors": [["cave_entrance", "n/a", "n/a", "n/a"], ["iron_ore", "n/a", "n/a", "n/a"], ["stone_pickaxe", "n/a", "n/a", "n/a"], ["fox", "n/a", "n/a", "n/a"]]}
+

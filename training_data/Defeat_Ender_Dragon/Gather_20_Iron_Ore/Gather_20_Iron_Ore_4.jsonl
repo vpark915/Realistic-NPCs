@@ -1,0 +1,8 @@
+{"Behavior": ["walk", "iron_ore", "semi-close_front", "stone_pickaxe"], "reasoning": "The current step is to gather 20 iron ore. The player has a stone pickaxe, which is capable of mining iron ore, and the iron ore is located semi-close in front. To effectively gather the iron ore, the player should walk closer to it and then use the stone pickaxe to break it."}
+
+{"Biome": "Taiga_Biome", "Environment": [["cave_entrance", "semi-close_behind"], ["iron_ore", "close_infront"], ["stone_pickaxe", "close_right"], ["fox", "semi-close_left"]], "Health": 16, "Hunger": 18, "Inventory": [["spruce_log", 12], ["wooden_axe", 1], ["crafting_table", 1], ["wooden_pickaxe", 2], ["cobblestone", 15], ["stone_pickaxe", 1], ["stone_sword", 1], ["n/a"], ["n/a"], ["n/a"]], "Armor": ["n/a", "n/a", "n/a", "n/a"]}
+
+{"Memories": [["Self", "walk", "cave_entrance", [["cave_entrance", "semi-close_infront"], ["stone_sword", "right"], ["cobblestone", "semi-close_around"], ["fox", "close_behind"]], "n/a"], ["Self", "walk", "spruce_log", [["sapling", "semi-close_right"], ["spruce_sapling", "semi-close_left"], ["fox", "close_infront"], ["sweet_berry_bush", "far_behind"]], "n/a"], ["Self", "walk", "sapling", [["sapling", "semi-close_right"], ["spruce_sapling", "semi-close_left"], ["fox", "close_infront"], ["sweet_berry_bush", "far_behind"]], "n/a"], ["Self", "walk", "spruce_log", [["broken_spruce_log", "close_right"], ["new_spruce_log", "far_right"], ["fox", "semi-close_infront"], ["sweet_berry_bush", "semi-close_behind"]], "n/a"]]}
+
+{"Environment_Behaviors": [["cave_entrance", "n/a", "n/a", "n/a"], ["iron_ore", "n/a", "n/a", "n/a"], ["stone_sword", "n/a", "n/a", "n/a"], ["fox", "n/a", "n/a", "n/a"]]}
+

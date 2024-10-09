@@ -1,0 +1,8 @@
+{"Behavior": ["break", "coal_ore", "close_right", "stone_pickaxe"], "reasoning": "The player is currently inside a cave with a coal ore vein close to the right, which is part of their current step to collect 20 coal. Since they have a stone pickaxe in their inventory and are in the proximity to break the coal ore, it's logical to use it to break the coal for collection."}
+
+{"Biome": "Taiga_Biome", "Environment": [["cave_interior", "around"], ["torch", "infront"], ["cobblestone", "semi-close_left"], ["coal", "very_close_right"]], "Health": 16, "Hunger": 18, "Inventory": [["spruce_log", 12], ["wooden_axe", 1], ["crafting_table", 1], ["wooden_pickaxe", 2], ["cobblestone", 18], ["stone_pickaxe", 1], ["stone_sword", 1], ["iron_ore", 21], ["coal", 2], ["n/a"]], "Armor": ["n/a", "n/a", "n/a", "n/a"]}
+
+{"Memories": [["Self", "break", "coal_ore", [["cave_interior", "around"], ["torch", "infront"], ["cobblestone", "semi-close_left"], ["broken_iron_ore_vein", "close_right"]], "stone_pickaxe"], ["n/a", "n/a", "n/a", [["n/a", "n/a"], ["n/a", "n/a"], ["n/a", "n/a"], ["n/a", "n/a"]], "n/a"], ["n/a", "n/a", "n/a", [["n/a", "n/a"], ["n/a", "n/a"], ["n/a", "n/a"], ["n/a", "n/a"]], "n/a"], ["n/a", "n/a", "n/a", [["n/a", "n/a"], ["n/a", "n/a"], ["n/a", "n/a"], ["n/a", "n/a"]], "n/a"]]}
+
+{"Environment_Behaviors": [["cave_interior", "n/a", "n/a", "n/a"], ["torch", "n/a", "n/a", "n/a"], ["cobblestone", "n/a", "n/a", "n/a"], ["coal_ore_vein", "n/a", "n/a", "n/a"]]}
+

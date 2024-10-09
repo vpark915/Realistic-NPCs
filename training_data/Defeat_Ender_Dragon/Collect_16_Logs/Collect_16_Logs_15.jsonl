@@ -1,0 +1,8 @@
+{"Behavior": ["break", "tree", "close_right", "wooden_axe"], "reasoning": "The player needs just 1 more spruce log to complete the current step of collecting 16 logs. Using a wooden axe, it is efficient to break a tree close to the right to quickly collect additional logs and advance towards the overall goal of defeating the Ender Dragon."}
+
+{"Biome": "Taiga_Biome", "Environment": [["spruce_sapling", "semi-close_left"], ["fox", "semi-close_upperright"], ["sweet_berry_bush", "distant_behind"], ["log", "close_right"]], "Health": 17, "Hunger": 18, "Inventory": [["spruce_log", 16], ["wooden_axe", 1], ["n/a"], ["n/a"], ["n/a"], ["n/a"], ["n/a"], ["n/a"], ["n/a"], ["n/a"]], "Armor": ["n/a", "n/a", "n/a", "n/a"]}
+
+{"Memories": [["Self", "break", "spruce log", [["spruce_log", "close_right"], ["spruce_sapling", "far_left"], ["fox", "distant_infront"], ["sweet_berry_bush", "semi-close_behind"]], "wooden axe"], ["Self", "break", "spruce log", [["spruce_sapling", "far_lowerleft"], ["fox", "distant_infront"], ["sweet_berry_bush", "close_behind"], ["spruce_log", "close_right"]], "wooden_axe"], ["Self", "break", "spruce log", [["spruce_sapling", "distant_lowerleft"], ["fox", "far_infront"], ["sweet_berry_bush", "semi-close_behind"], ["spruce_log", "close_right"]], "wooden_axe"], ["Self", "break", "fallen spruce log", [["fallen_spruce_log", "close_right"], ["fox", "semi-close_infront"], ["sweet_berry_bush", "semi-close_behind"], ["spruce_sapling", "distant_lowerleft"]], "wooden_axe"]]}
+
+{"Environment_Behaviors": [["spruce_sapling", "n/a", "n/a", "n/a"], ["fox", "run", "Player", "n/a"], ["sweet_berry_bush", "n/a", "n/a", "n/a"], ["tree", "n/a", "n/a", "n/a"]]}
+

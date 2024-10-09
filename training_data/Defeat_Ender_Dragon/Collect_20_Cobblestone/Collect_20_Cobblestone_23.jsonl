@@ -1,0 +1,8 @@
+{"Behavior": ["break", "cobblestone", "close_below", "wooden pickaxe"], "reasoning": "The player needs only 1 more cobblestone to reach their current step goal of collecting 20 cobblestone. Based on the environment and memories, cobblestone is close below, making it the optimal target for the player to break using the wooden pickaxe in their inventory. This action directly contributes to achieving the current step of the overall goal."}
+
+{"Biome": "Taiga_Biome", "Environment": [["cobblestone", "scattered_around"], ["hole", "close_below"], ["fox", "semi-close_right"], ["spruce_tree", "distant_left"]], "Health": 16, "Hunger": 18, "Inventory": [["spruce_log", 12], ["wooden_axe", 1], ["crafting_table", 1], ["wooden_pickaxe", 2], ["cobblestone", 20], ["n/a"], ["n/a"], ["n/a"], ["n/a"], ["n/a"]], "Armor": ["n/a", "n/a", "n/a", "n/a"]}
+
+{"Memories": [["Self", "break", "cobblestone", [["cobblestone", "close_below"], ["dirt", "close_right"], ["fox", "semi-close_right"], ["spruce_tree", "far_left"]], "wooden_pickaxe"], ["Self", "break", "cobblestone", [["cobblestone", "close_below"], ["stone", "semi-close_below"], ["fox", "close_right"], ["spruce_tree", "far_left"]], "wooden pickaxe"], ["Self", "break", "cobblestone", [["cobblestone", "close_below"], ["broken_stone", "semi-close_below"], ["fox", "semi-close_right"], ["spruce_tree", "far_left"]], "wooden_pickaxe"], ["Self", "break", "cobblestone", [["cobblestone", "close_below"], ["broken_stone", "semi-close_below"], ["fox", "semi-close_right"], ["spruce_tree", "far_left"]], "wooden_pickaxe"]]}
+
+{"Environment_Behaviors": [["cobblestone", "n/a", "n/a", "n/a"], ["dirt", "n/a", "n/a", "n/a"], ["fox", "n/a", "n/a", "n/a"], ["spruce_tree", "n/a", "n/a", "n/a"]]}
+

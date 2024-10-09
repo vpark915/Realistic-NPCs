@@ -1,0 +1,8 @@
+{"Behavior": ["break", "cobblestone", "close_right", "wooden_pickaxe"], "reasoning": "To collect cobblestone, I will use the wooden pickaxe, which is the appropriate tool for mining stone blocks like cobblestone. The cobblestone is close to my right, so I have easy access to it. Breaking cobblestone with a pickaxe will drop cobblestone items for collection."}
+
+{"Biome": "Taiga_Biome", "Environment": [["cobblestone", "broken"], ["fox", "semi-close_right"], ["sweet_berry_bush", "distant_infront"], ["spruce_tree", "semi-close_left"]], "Health": 17, "Hunger": 18, "Inventory": [["spruce_log", 12], ["wooden_axe", 1], ["crafting_table", 1], ["wooden_pickaxe", 2], ["cobblestone", 1], ["n/a"], ["n/a"], ["n/a"], ["n/a"], ["n/a"]], "Armor": ["n/a", "n/a", "n/a", "n/a"]}
+
+{"Memories": [["Self", "craft", "wooden_pickaxe", [["crafting_table", "close_right"], ["fox", "semi-close_upperright"], ["sweet_berry_bush", "distant_behind"], ["spruce_sapling", "semi-close_left"]], "crafting_table"], ["Self", "right_click", "wooden_pickaxe", [["wooden_pickaxe", "close_right"], ["fox", "semi-close_upperright"], ["sweet_berry_bush", "distant_behind"], ["spruce_sapling", "semi-close_left"]], "n/a"], ["Self", "break", "spruce_log", [["spruce_log", "close_right"], ["spruce_sapling", "far_left"], ["fox", "distant_infront"], ["sweet_berry_bush", "semi-close_behind"]], "wooden axe"], ["Self", "break", "spruce_log", [["spruce_sapling", "far_lowerleft"], ["fox", "distant_infront"], ["sweet_berry_bush", "close_behind"], ["spruce_log", "close_right"]], "wooden_axe"]]}
+
+{"Environment_Behaviors": [["cobblestone", "n/a", "n/a", "n/a"], ["fox", "n/a", "n/a", "n/a"], ["sweet_berry_bush", "n/a", "n/a", "n/a"], ["spruce_tree", "n/a", "n/a", "n/a"]]}
+

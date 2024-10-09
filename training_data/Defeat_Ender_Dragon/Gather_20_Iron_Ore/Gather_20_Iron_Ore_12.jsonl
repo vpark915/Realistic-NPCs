@@ -1,0 +1,8 @@
+{"Behavior": ["break", "iron_ore", "very-close_left", "stone_pickaxe"], "reasoning": "The player\u2019s current step is to gather 20 iron ore. There is iron ore very close to the left, which can be mined using a stone pickaxe, giving the player more iron ore to work towards their goal. The stone pickaxe is in the player's inventory and is suitable for mining iron ore."}
+
+{"Biome": "Taiga_Biome", "Environment": [["cave_interior", "close_infront"], ["torch", "close_right"], ["iron_ore", "very_close_left"], ["bat", "semi_close_upperleft"]], "Health": 16, "Hunger": 18, "Inventory": [["spruce_log", 12], ["wooden_axe", 1], ["crafting_table", 1], ["wooden_pickaxe", 2], ["cobblestone", 15], ["stone_pickaxe", 1], ["stone_sword", 1], ["iron_ore", 4], ["n/a"], ["n/a"]], "Armor": ["n/a", "n/a", "n/a", "n/a"]}
+
+{"Memories": [["Self", "break", "iron_ore", [["cave_entrance", "semi-close_behind"], ["iron_ore", "close_right"], ["stone", "close_infront"], ["fox", "semi-close_left"]], "stone_pickaxe"], ["Self", "mine", "iron_ore", [["cave_entrance", "semi-close_behind"], ["iron_ore", "close_infront"], ["stone_pickaxe", "close_right"], ["fox", "semi-close_left"]], "stone_pickaxe"], ["Self", "break", "Minerals Stone", [["cave_interior", "close_infront"], ["torch", "close_right"], ["minerals_stone", "very_close_left"], ["bat", "semi_close_upperleft"]], "Stone Pickaxe"], ["Self", "walk", "minerals-stone", [["cave_interior", "very_close_infront"], ["torch", "close_right"], ["minerals_stone", "close_left"], ["bat", "close_upperleft"]], "n/a"]]}
+
+{"Environment_Behaviors": [["cave_interior", "n/a", "n/a", "n/a"], ["torch", "n/a", "n/a", "n/a"], ["iron_ore", "n/a", "n/a", "n/a"], ["bat", "n/a", "n/a", "n/a"]]}
+

@@ -1,0 +1,8 @@
+{"Behavior": ["break", "cobblestone", "close_right", "wooden pickaxe"], "reasoning": "The player needs to collect more cobblestone to meet their current goal. There is a small cobblestone pile close to the right, making it easily accessible for breaking. The player has already been using the wooden pickaxe effectively for this purpose, and has enough inventory space to collect more cobblestone."}
+
+{"Biome": "Taiga_Biome", "Environment": [["cobblestone_block", "close_right"], ["stone", "below"], ["fox", "far_upperright"], ["spruce_tree", "close_left"]], "Health": 17, "Hunger": 18, "Inventory": [["spruce_log", 12], ["wooden_axe", 1], ["crafting_table", 1], ["wooden_pickaxe", 2], ["cobblestone", 6], ["n/a"], ["n/a"], ["n/a"], ["n/a"], ["n/a"]], "Armor": ["n/a", "n/a", "n/a", "n/a"]}
+
+{"Memories": [["Self", "break", "cobblestone", [["cobblestone", "close_right"], ["fox", "semi-close_right"], ["sweet_berry_bush", "distant_infront"], ["spruce_tree", "semi-close_left"]], "wooden_pickaxe"], ["Self", "break", "cobblestone", [["cobblestone", "close_right"], ["fox", "far_right"], ["sweet_berry_bush", "distant_infront"], ["spruce_tree", "semi-close_behind"]], "wooden_pickaxe"], ["Self", "break", "cobblestone", [["cobblestone", "broken"], ["fox", "far_right"], ["sweet_berry_bush", "distant_infront"], ["spruce_tree", "semi-close_behind"]], "wooden pickaxe"], ["Self", "break", "cobblestone", [["small_cobblestone_pile", "close_below"], ["fox", "far_upperright"], ["sweet_berry_bush", "semi-close_infront"], ["spruce_tree", "semi-close_behind"]], "wooden pickaxe"]]}
+
+{"Environment_Behaviors": [["small_cobblestone_pile", "n/a", "n/a", "n/a"], ["stone", "n/a", "n/a", "n/a"], ["fox", "n/a", "n/a", "n/a"], ["spruce_tree", "n/a", "n/a", "n/a"]]}
+

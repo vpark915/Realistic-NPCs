@@ -1,0 +1,8 @@
+{"Behavior": ["break", "broken spruce log", "close_right", "wooden_axe"], "reasoning": "The player is close to completing the current step of collecting 16 spruce logs, with 13 already in the inventory. There is a broken spruce log close to the right, which can be easily broken using the wooden axe. This action will efficiently increase the log count without having to search further or use up much time or energy."}
+
+{"Biome": "Taiga_Biome", "Environment": [["spruce_sapling", "semi-close_left"], ["fox", "close_infront"], ["sweet_berry_bush", "far_behind"], ["spruce_log", "on_ground_close_right"]], "Health": 17, "Hunger": 18, "Inventory": [["spruce_log", 14], ["wooden_axe", 1], ["n/a"], ["n/a"], ["n/a"], ["n/a"], ["n/a"], ["n/a"], ["n/a"], ["n/a"]], "Armor": ["n/a", "n/a", "n/a", "n/a"]}
+
+{"Memories": [["Self", "walk", "spruce_log", [["broken_spruce_log", "close_right"], ["new_spruce_log", "far_right"], ["fox", "semi-close_infront"], ["sweet_berry_bush", "semi-close_behind"]], "n/a"], ["Self", "break", "broken_spruce_log", [["broken_spruce_log", "close_right"], ["spruce_sapling", "semi-close_left"], ["fox", "close_infront"], ["sweet_berry_bush", "far_behind"]], "wooden_axe"], ["Self", "break", "spruce_log", [["broken_spruce_log", "close_right"], ["spruce_sapling", "semi-close_left"], ["fox", "close_infront"], ["sweet_berry_bush", "far_behind"]], "wooden_axe"], ["Self", "break", "spruce_log", [["spruce_sapling", "far_lowerleft"], ["fox", "distant_infront"], ["sweet_berry_bush", "close_behind"], ["spruce_log", "close_right"]], "wooden_axe"]]}
+
+{"Environment_Behaviors": [["spruce_sapling", "n/a", "n/a", "n/a"], ["fox", "n/a", "n/a", "n/a"], ["sweet_berry_bush", "n/a", "n/a", "n/a"], ["broken_spruce_log", "n/a", "n/a", "n/a"]]}
+

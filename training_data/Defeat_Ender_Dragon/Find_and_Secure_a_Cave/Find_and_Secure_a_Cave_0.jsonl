@@ -1,0 +1,8 @@
+{"Behavior": ["right_click", "torch", "close_left", "n/a"], "reasoning": "Securing the cave involves ensuring it is well-lit to prevent hostile mobs from spawning, which is critical in preparing for the Ender Dragon fight. Lighting torches activates and strengthens their light source, maintaining the illuminated environment necessary for safety."}
+
+{"Biome": "Taiga_Biome", "Environment": [["cave_interior", "around"], ["torch", "close_left"], ["torch", "close_left"], ["stone_ore", "close_right"]], "Health": 16, "Hunger": 18, "Inventory": [["spruce_log", 12], ["wooden_axe", 1], ["crafting_table", 1], ["wooden_pickaxe", 2], ["cobblestone", 18], ["stone_pickaxe", 1], ["stone_sword", 1], ["iron_ore", 21], ["coal", 21], ["n/a"]], "Armor": ["n/a", "n/a", "n/a", "n/a"]}
+
+{"Memories": [["Self", "pick_up", "iron_ore", [["cave_interior", "close_infront"], ["torch", "close_right"], ["iron_ore_dropped_item", "broken_very_close_left"], ["bat", "semi_close_upperleft"]], "n/a"], ["Self", "walk", "iron_ore", [["cave_interior", "close_infront"], ["torch", "close_right"], ["cobblestone", "close_infront_below"], ["iron_ore_vein", "semi-close_right_infront"]], "n/a"], ["Self", "pick_up", "Iron Ore Dropped Item", [["cave_interior", "close_infront"], ["torch", "close_right"], ["cobblestone", "close_infront_below"], ["iron_ore_dropped_item", "close_right_infront"]], "n/a"], ["Self", "pick_up", "stone pickaxe", [["cave_interior", "around"], ["torch", "close_left"], ["stone", "right"], ["stone_pickaxe", "infront"]], "n/a"]]}
+
+{"Environment_Behaviors": [["cave_interior", "n/a", "n/a", "n/a"], ["torch", "n/a", "n/a", "n/a"], ["stone_pickaxe", "n/a", "n/a", "n/a"], ["stone_ore", "n/a", "n/a", "n/a"]]}
+

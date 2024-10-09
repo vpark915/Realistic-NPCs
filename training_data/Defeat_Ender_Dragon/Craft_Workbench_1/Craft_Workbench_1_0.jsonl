@@ -1,0 +1,8 @@
+{"Behavior": ["craft", "crafting_table", "n/a", "spruce_log"], "reasoning": "To craft a workbench, four wooden planks are needed. I have spruce logs in my inventory and should craft them into wooden planks by accessing the crafting interface, achieving the current step of crafting a workbench."}
+
+{"Biome": "Taiga_Biome", "Environment": [["crafting_table", "close_right"], ["fox", "semi-close_upperright"], ["sweet_berry_bush", "distant_behind"], ["spruce_sapling", "semi-close_left"]], "Health": 17, "Hunger": 18, "Inventory": [["spruce_log", 12], ["wooden_axe", 1], ["crafting_table", 1], ["n/a"], ["n/a"], ["n/a"], ["n/a"], ["n/a"], ["n/a"], ["n/a"]], "Armor": ["n/a", "n/a", "n/a", "n/a"]}
+
+{"Memories": [["Self", "break", "spruce log", [["spruce_log", "close_right"], ["spruce_sapling", "far_left"], ["fox", "distant_infront"], ["sweet_berry_bush", "semi-close_behind"]], "wooden axe"], ["Self", "pick_up", "spruce_log", [["spruce_sapling", "semi-close_left"], ["fox", "close_infront"], ["sweet_berry_bush", "far_behind"], ["spruce_log", "on_ground_close_right"]], "n/a"], ["Self", "walk", "spruce_log", [["sapling", "close_right"], ["spruce_sapling", "semi-close_left"], ["fox", "semi-close_upperright"], ["sweet_berry_bush", "distant_behind"]], "n/a"], ["Self", "break", "sapling", [["sapling", "close_right"], ["spruce_sapling", "semi-close_left"], ["fox", "semi-close_upperright"], ["sweet_berry_bush", "distant_behind"]], "wooden_axe"]]}
+
+{"Environment_Behaviors": [["spruce_sapling", "n/a", "n/a", "n/a"], ["fox", "n/a", "n/a", "n/a"], ["sweet_berry_bush", "n/a", "n/a", "n/a"], ["log", "n/a", "n/a", "n/a"]]}
+

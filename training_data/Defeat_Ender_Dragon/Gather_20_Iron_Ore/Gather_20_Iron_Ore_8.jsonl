@@ -1,0 +1,8 @@
+{"Behavior": ["walk", "cave", "close_in_front", "n/a"], "reasoning": "The player is currently near a cave entrance close in front, and their goal is to gather iron ore. Walking into the cave will allow the player to find more iron ore, which is necessary to complete the current step of gathering 20 iron ore. The player does not need any item in hand while advancing into the cave."}
+
+{"Biome": "Taiga_Biome", "Environment": [["cave_entrance", "very_close_infront"], ["torch", "close_right"], ["bat", "close_behind"], ["stone", "very_close_left"]], "Health": 16, "Hunger": 18, "Inventory": [["spruce_log", 12], ["wooden_axe", 1], ["crafting_table", 1], ["wooden_pickaxe", 2], ["cobblestone", 15], ["stone_pickaxe", 1], ["stone_sword", 1], ["iron_ore", 2], ["n/a"], ["n/a"]], "Armor": ["n/a", "n/a", "n/a", "n/a"]}
+
+{"Memories": [["Self", "walk", "cave", [["stone_sword", "far_right"], ["cobblestone", "close_around"], ["fox", "close_behind"], ["spruce_tree", "right"]], "n/a"], ["Self", "walk", "cave", [["cave_entrance", "semi-close_infront"], ["stone_sword", "right"], ["cobblestone", "semi-close_around"], ["fox", "close_behind"]], "n/a"], ["Self", "walk", "iron_ore", [["cave_entrance", "close_infront"], ["iron_ore", "semi-close_infront"], ["stone_sword", "close_left"], ["fox", "close_behind"]], "stone_pickaxe"], ["Self", "walk", "cave entrance", [["cave_entrance", "semi-close_behind"], ["stone", "close_right"], ["stone", "close_infront"], ["fox", "close_left"]], "n/a"]]}
+
+{"Environment_Behaviors": [["cave_entrance", "n/a", "n/a", "n/a"], ["torch", "n/a", "n/a", "n/a"], ["bat", "n/a", "n/a", "n/a"], ["stone", "n/a", "n/a", "n/a"]]}
+

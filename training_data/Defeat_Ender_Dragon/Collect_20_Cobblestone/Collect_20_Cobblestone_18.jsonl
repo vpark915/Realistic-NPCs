@@ -1,0 +1,8 @@
+{"Behavior": ["break", "stone", "close_below", "wooden_pickaxe"], "reasoning": "The player needs more cobblestone to reach their step goal of collecting 20 pieces. There is regular stone directly close below them which, when broken, will yield cobblestone. Since they have a wooden pickaxe in their inventory, they should use it to break the stone and collect more cobblestone. The player\u2019s memories indicate they have previously broken stone with a wooden pickaxe, confirming this strategic choice."}
+
+{"Biome": "Taiga_Biome", "Environment": [["cobblestone", "close_below"], ["broken_stone", "semi-close_below"], ["fox", "semi-close_right"], ["spruce_tree", "far_left"]], "Health": 17, "Hunger": 18, "Inventory": [["spruce_log", 12], ["wooden_axe", 1], ["crafting_table", 1], ["wooden_pickaxe", 2], ["cobblestone", 15], ["n/a"], ["n/a"], ["n/a"], ["n/a"], ["n/a"]], "Armor": ["n/a", "n/a", "n/a", "n/a"]}
+
+{"Memories": [["Self", "break", "cobblestone", [["cobblestone", "close_below"], ["dirt", "close_right"], ["fox", "semi-close_right"], ["spruce_tree", "far_left"]], "wooden_pickaxe"], ["Self", "break", "stone", [["dirt", "close_right"], ["stone", "close_below"], ["fox", "semi-close_right"], ["spruce_tree", "far_left"]], "wooden_pickaxe"], ["Self", "break", "stone", [["cobblestone_block", "destroyed"], ["stone", "close_right_below"], ["fox", "far_right"], ["spruce_tree", "left"]], "wooden pickaxe"], ["Self", "break", "cobblestone", [["cobblestone", "close_below"], ["broken_stone", "semi-close_below"], ["fox", "semi-close_right"], ["spruce_tree", "far_left"]], "wooden_pickaxe"]]}
+
+{"Environment_Behaviors": [["broken_stone", "n/a", "n/a", "n/a"], ["stone", "n/a", "n/a", "n/a"], ["fox", "n/a", "n/a", "n/a"], ["spruce_tree", "n/a", "n/a", "n/a"]]}
+

@@ -1,8 +1,0 @@
-{"Behavior": ["break", "log", "close_left", "n/a"], "reasoning": "The player needs to gather wood planks, which can be crafted by first breaking a log from a tree that's close. Logs are the raw material needed to create wood planks."}
-
-{"Biome": "Plains_Biome", "Environment": [["tree", "semi-close_around"], ["grass_block", "all_around"], ["wooden_log", "close_left"], ["self", "around"]], "Health": 20, "Hunger": 20, "Inventory": [["Wood Log", 1], ["n/a"], ["n/a"], ["n/a"], ["n/a"]]}
-
-{"Memories": [["Self", "walk", "tree", [["tree", "around"], ["grass_block", "all_around"], ["sun", "far_above"], ["pig", "semi-close_right"]], "n/a"], ["Self", "walk", "tree", [["tree", "close_infront"], ["grass_block", "all_around"], ["sun", "far_above"], ["sheep", "semi-close_left"]], "n/a"], ["Self", "walk", "tree", [["grass_block", "all_around"], ["stone", "far_below"], ["sun", "far_above"], ["horse", "distant_left"]], "n/a"], ["tree", "n/a", "n/a", [["tree", "around"], ["grass_block", "all_around"], ["sun", "far_above"], ["pig", "semi-close_right"]], "n/a"]]}
-
-{"Environment_Behaviors": [["tree", "n/a", "n/a", [["tree", "semi-close_around"], ["grass_block", "all_around"], ["wooden_log", "close_left"], ["self", "around"]], "n/a"], ["grass_block", "n/a", "n/a", [["tree", "semi-close_around"], ["grass_block", "all_around"], ["wooden_log", "close_left"], ["self", "around"]], "n/a"], ["wooden_log", "n/a", "n/a", [["tree", "semi-close_around"], ["grass_block", "all_around"], ["wooden_log", "close_left"], ["self", "around"]], "n/a"], ["self", "break", "wooden_log", [["tree", "semi-close_around"], ["grass_block", "all_around"], ["wooden_log", "close_left"], ["self", "around"]], "n/a"]]}
-

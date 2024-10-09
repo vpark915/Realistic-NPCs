@@ -1,0 +1,8 @@
+{"Behavior": ["break", "cobblestone", "close_right", "wooden_pickaxe"], "reasoning": "The player's current goal is to collect 20 cobblestone, and since cobblestone is close to the player's right, using the wooden pickaxe to break it is the most efficient way to progress towards this goal with their current resources."}
+
+{"Biome": "Taiga_Biome", "Environment": [["cobblestone", "broken"], ["fox", "far_right"], ["sweet_berry_bush", "distant_infront"], ["spruce_tree", "semi-close_behind"]], "Health": 17, "Hunger": 18, "Inventory": [["spruce_log", 12], ["wooden_axe", 1], ["crafting_table", 1], ["wooden_pickaxe", 2], ["cobblestone", 3], ["n/a"], ["n/a"], ["n/a"], ["n/a"], ["n/a"]], "Armor": ["n/a", "n/a", "n/a", "n/a"]}
+
+{"Memories": [["Self", "break", "cobblestone", [["cobblestone", "close_right"], ["fox", "semi-close_right"], ["sweet_berry_bush", "distant_infront"], ["spruce_tree", "semi-close_left"]], "wooden_pickaxe"], ["Self", "break", "cobblestone", [["cobblestone", "close_right"], ["fox", "far_right"], ["sweet_berry_bush", "distant_infront"], ["spruce_tree", "semi-close_behind"]], "wooden_pickaxe"], ["Self", "walk", "cobblestone", [["cobblestone", "broken"], ["fox", "semi-close_right"], ["sweet_berry_bush", "distant_infront"], ["spruce_tree", "semi-close_left"]], "n/a"], ["Self", "pick_up", "spruce_log", [["spruce_sapling", "semi-close_left"], ["fox", "close_infront"], ["sweet_berry_bush", "far_behind"], ["spruce_log", "on_ground_close_right"]], "n/a"]]}
+
+{"Environment_Behaviors": [["cobblestone", "n/a", "n/a", "n/a"], ["fox", "n/a", "n/a", "n/a"], ["sweet_berry_bush", "n/a", "n/a", "n/a"], ["spruce_tree", "n/a", "n/a", "n/a"]]}
+

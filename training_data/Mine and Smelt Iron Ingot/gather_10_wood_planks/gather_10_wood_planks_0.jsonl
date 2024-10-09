@@ -1,8 +1,0 @@
-{"Behavior": ["walk", "tree", "semi-close_center", "n/a"], "reasoning": "The player wants to gather wood planks by chopping logs from the tree, and to do that, they must first get closer to the tree. The tree is located somewhat away from the player, requiring them to walk closer to it before they can break the logs."}
-
-{"Biome": "Plains_Biome", "Environment": [["tree", "semi-close_around"], ["grass_block", "all_around"], ["wooden_log", "close_left"], ["self", "around"]], "Health": 20, "Hunger": 20, "Inventory": [["n/a"], ["n/a"], ["n/a"], ["n/a"], ["n/a"]]}
-
-{"Memories": [["Self", "walk", "tree", [["grass_block", "all_around"], ["stone", "far_below"], ["sun", "far_above"], ["horse", "distant_left"]], "n/a"], ["Self", "walk", "tree", [["tree", "close_infront"], ["grass_block", "all_around"], ["sun", "far_above"], ["sheep", "semi-close_left"]], "n/a"], ["tree", "n/a", "n/a", [["tree", "close_infront"], ["grass_block", "all_around"], ["sun", "far_above"], ["sheep", "semi-close_left"]], "n/a"], ["sheep", "walk", "player", [["tree", "close_infront"], ["grass_block", "all_around"], ["sun", "far_above"], ["sheep", "semi-close_left"]], "n/a"]]}
-
-{"Environment_Behaviors": [["tree", "n/a", "n/a", [["tree", "around"], ["grass_block", "all_around"], ["sun", "far_above"], ["pig", "semi-close_right"]], "n/a"], ["grass_block", "n/a", "n/a", [["tree", "around"], ["grass_block", "all_around"], ["sun", "far_above"], ["pig", "semi-close_right"]], "n/a"], ["sun", "n/a", "n/a", [["tree", "around"], ["grass_block", "all_around"], ["sun", "far_above"], ["pig", "semi-close_right"]], "n/a"], ["pig", "walk", "n/a", [["tree", "around"], ["grass_block", "all_around"], ["sun", "far_above"], ["pig", "semi-close_right"]], "n/a"]]}
-

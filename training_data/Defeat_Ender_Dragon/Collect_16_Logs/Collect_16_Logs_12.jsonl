@@ -1,0 +1,8 @@
+{"Behavior": ["pick_up", "spruce_log", "close_right", "n/a"], "reasoning": "The player needs 16 logs to complete their current step, and since there is a spruce log on the ground close to the right, it is beneficial to pick it up to add to the inventory. This will bring the total to 15 logs, just one short of the goal."}
+
+{"Biome": "Taiga_Biome", "Environment": [["spruce_sapling", "semi-close_left"], ["fox", "close_infront"], ["sweet_berry_bush", "far_behind"], ["sapling", "semi-close_right"]], "Health": 17, "Hunger": 18, "Inventory": [["spruce_log", 15], ["wooden_axe", 1], ["n/a"], ["n/a"], ["n/a"], ["n/a"], ["n/a"], ["n/a"], ["n/a"], ["n/a"]], "Armor": ["n/a", "n/a", "n/a", "n/a"]}
+
+{"Memories": [["Self", "break", "spruce log", [["spruce_log", "close_right"], ["spruce_sapling", "far_left"], ["fox", "distant_infront"], ["sweet_berry_bush", "semi-close_behind"]], "wooden axe"], ["Self", "break", "spruce log", [["spruce_sapling", "far_lowerleft"], ["fox", "distant_infront"], ["sweet_berry_bush", "close_behind"], ["spruce_log", "close_right"]], "wooden_axe"], ["Self", "break", "spruce_log", [["spruce_sapling", "distant_lowerleft"], ["fox", "far_infront"], ["sweet_berry_bush", "semi-close_behind"], ["spruce_log", "close_right"]], "wooden_axe"], ["Self", "break", "fallen spruce log", [["fallen_spruce_log", "close_right"], ["fox", "semi-close_infront"], ["sweet_berry_bush", "semi-close_behind"], ["spruce_sapling", "distant_lowerleft"]], "wooden_axe"]]}
+
+{"Environment_Behaviors": [["spruce_sapling", "n/a", "n/a", "n/a"], ["fox", "n/a", "n/a", "n/a"], ["sweet_berry_bush", "n/a", "n/a", "n/a"], ["spruce_log", "n/a", "n/a", "n/a"]]}
+

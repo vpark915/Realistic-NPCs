@@ -1,0 +1,8 @@
+{"Behavior": ["break", "broken iron ore", "very-close_left", "stone pickaxe"], "reasoning": "I chose to break the broken iron ore because it is necessary to gather iron ore to progress toward the player's goal of defeating the Ender Dragon. Using the stone pickaxe is appropriate as it is the best tool available for mining iron ore and mining is a task I have done multiple times, as seen in my memory."}
+
+{"Biome": "Taiga_Biome", "Environment": [["cave_interior", "close_infront"], ["torch", "close_right"], ["stone", "broken_very_close_left"], ["bat", "semi_close_upperleft"]], "Health": 16, "Hunger": 18, "Inventory": [["spruce_log", 12], ["wooden_axe", 1], ["crafting_table", 1], ["wooden_pickaxe", 2], ["cobblestone", 15], ["stone_pickaxe", 1], ["stone_sword", 1], ["iron_ore", 6], ["n/a"], ["n/a"]], "Armor": ["n/a", "n/a", "n/a", "n/a"]}
+
+{"Memories": [["Self", "mine", "iron_ore", [["cave_entrance", "semi-close_behind"], ["iron_ore", "close_infront"], ["stone_pickaxe", "close_right"], ["fox", "semi-close_left"]], "stone_pickaxe"], ["Self", "break", "iron_ore", [["cave_interior", "close_infront"], ["torch", "close_right"], ["iron_ore", "very_close_left"], ["bat", "semi_close_upperleft"]], "stone_pickaxe"], ["n/a", "n/a", "n/a", [["n/a", "n/a"], ["n/a", "n/a"], ["n/a", "n/a"], ["n/a", "n/a"]], "n/a"], ["n/a", "n/a", "n/a", [["n/a", "n/a"], ["n/a", "n/a"], ["n/a", "n/a"], ["n/a", "n/a"]], "n/a"]]}
+
+{"Environment_Behaviors": [["cave_interior", "n/a", "n/a", "n/a"], ["torch", "n/a", "n/a", "n/a"], ["iron_ore", "n/a", "n/a", "n/a"], ["bat", "n/a", "n/a", "n/a"]]}
+

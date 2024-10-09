@@ -1,0 +1,8 @@
+{"Behavior": ["break", "stone", "close_below", "wooden pickaxe"], "reasoning": "The player's current objective is to collect 20 cobblestones, and they currently have 18. Stone is directly below them, indicating that by breaking it with a wooden pickaxe, it will yield cobblestones."}
+
+{"Biome": "Taiga_Biome", "Environment": [["cobblestone", "scattered_around"], ["dirt", "close_below"], ["fox", "far_right"], ["spruce_tree", "distant_left"]], "Health": 16, "Hunger": 18, "Inventory": [["spruce_log", 12], ["wooden_axe", 1], ["crafting_table", 1], ["wooden_pickaxe", 2], ["cobblestone", 19], ["n/a"], ["n/a"], ["n/a"], ["n/a"], ["n/a"]], "Armor": ["n/a", "n/a", "n/a", "n/a"]}
+
+{"Memories": [["Self", "break", "stone", [["dirt", "close_right"], ["stone", "close_below"], ["fox", "semi-close_right"], ["spruce_tree", "far_left"]], "wooden_pickaxe"], ["Self", "break", "cobblestone", [["cobblestone", "close_below"], ["stone", "semi-close_below"], ["fox", "close_right"], ["spruce_tree", "far_left"]], "wooden pickaxe"], ["Self", "break", "stone", [["cobblestone_block", "destroyed"], ["stone", "close_right_below"], ["fox", "far_right"], ["spruce_tree", "left"]], "wooden pickaxe"], ["Self", "break", "cobblestone", [["cobblestone", "close_below"], ["stone", "semi-close_below"], ["fox", "close_right"], ["spruce_tree", "far_left"]], "wooden pickaxe"]]}
+
+{"Environment_Behaviors": [["stone", "n/a", "n/a", "n/a"], ["dirt", "n/a", "n/a", "n/a"], ["fox", "run", "Player", "n/a"], ["spruce_tree", "n/a", "n/a", "n/a"]]}
+

@@ -1,0 +1,8 @@
+{"Behavior": ["break", "stone block", "very-close_left", "stone pickaxe"], "reasoning": "The player is currently in a cave and needs more iron ore to proceed with their goal. Breaking nearby stone blocks with the stone pickaxe might reveal iron ore. Considering their experience with stone blocks and their need to conserve wooden pickaxes, the use of a stone pickaxe is more efficient."}
+
+{"Biome": "Taiga_Biome", "Environment": [["cave_interior", "close_infront"], ["torch", "close_right"], ["bat", "semi_close_upperleft"], ["broken_stone", "very_close_left"]], "Health": 16, "Hunger": 18, "Inventory": [["spruce_log", 12], ["wooden_axe", 1], ["crafting_table", 1], ["wooden_pickaxe", 2], ["cobblestone", 16], ["stone_pickaxe", 1], ["stone_sword", 1], ["iron_ore", 8], ["n/a"], ["n/a"]], "Armor": ["n/a", "n/a", "n/a", "n/a"]}
+
+{"Memories": [["Self", "break", "stone", [["cobblestone_block", "destroyed"], ["stone", "close_right_below"], ["fox", "far_right"], ["spruce_tree", "left"]], "wooden pickaxe"], ["Self", "break", "stone", [["broken_stone", "semi-close_below"], ["stone", "close_below"], ["fox", "semi-close_right"], ["spruce_tree", "far_left"]], "wooden_pickaxe"], ["Self", "break", "stone", [["cobblestone_block", "destroyed"], ["stone", "close_right_below"], ["fox", "far_right"], ["spruce_tree", "left"]], "wooden pickaxe"], ["Self", "break", "stone", [["dirt", "close_right"], ["stone", "close_below"], ["fox", "semi-close_right"], ["spruce_tree", "far_left"]], "wooden_pickaxe"]]}
+
+{"Environment_Behaviors": [["cave_interior", "n/a", "n/a", "n/a"], ["torch", "n/a", "n/a", "n/a"], ["bat", "n/a", "n/a", "n/a"], ["stone_block", "n/a", "n/a", "n/a"]]}
+

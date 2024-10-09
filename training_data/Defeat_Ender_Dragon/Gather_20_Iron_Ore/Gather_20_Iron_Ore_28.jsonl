@@ -1,0 +1,8 @@
+{"Behavior": ["break", "iron_ore", "close_front", "stone_pickaxe"], "reasoning": "The player's current step is to gather 20 iron ore, and with 13 already collected, breaking the iron ore block right in front is the most efficient action to continue towards this goal. The player efficiently uses the stone pickaxe, which mines iron ore more quickly than a wooden pickaxe."}
+
+{"Biome": "Taiga_Biome", "Environment": [["cave_interior", "close_infront"], ["torch", "close_right"], ["bat", "semi-close_upperright"], ["stone", "close_infront"]], "Health": 16, "Hunger": 18, "Inventory": [["spruce_log", 12], ["wooden_axe", 1], ["crafting_table", 1], ["wooden_pickaxe", 2], ["cobblestone", 18], ["stone_pickaxe", 1], ["stone_sword", 1], ["iron_ore", 14], ["n/a"], ["n/a"]], "Armor": ["n/a", "n/a", "n/a", "n/a"]}
+
+{"Memories": [["Self", "break", "iron_ore", [["cave_interior", "close_infront"], ["torch", "close_right"], ["iron_ore", "very_close_left"], ["bat", "semi_close_upperleft"]], "stone_pickaxe"], ["Self", "break", "iron_ore", [["cave_interior", "close_infront"], ["torch", "close_right"], ["iron_ore", "very_close_left"], ["bat", "semi_close_upperleft"]], "stone_pickaxe"], ["Self", "break", "iron_ore", [["cave_interior", "close_infront"], ["torch", "close_right"], ["bat", "semi-close_upperright"], ["iron_ore", "very_close_infront"]], "stone_pickaxe"], ["Self", "break", "iron_ore", [["cave_interior", "close_infront"], ["torch", "close_right"], ["bat", "close_upperright"], ["iron_ore", "close_infront"]], "stone_pickaxe"]]}
+
+{"Environment_Behaviors": [["cave_interior", "n/a", "n/a", "n/a"], ["torch", "n/a", "n/a", "n/a"], ["bat", "n/a", "n/a", "n/a"], ["iron_ore", "n/a", "n/a", "n/a"]]}
+

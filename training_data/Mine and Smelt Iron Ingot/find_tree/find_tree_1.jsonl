@@ -1,8 +1,0 @@
-{"Behavior": ["walk", "tree", "close_front", "n/a"], "reasoning": "The player intends to gather wood from the nearby tree and is already close enough to walk directly towards it. Given their goal of gathering wood to craft tools, it makes sense to focus on reaching the tree using the easiest path. Their memory of navigating similar environments supports their confidence in this action."}
-
-{"Biome": "Plains_Biome", "Environment": [["tree", "around"], ["grass_block", "all_around"], ["sun", "far_above"], ["pig", "semi-close_right"]], "Health": 19, "Hunger": 14, "Inventory": [["Wooden Pickaxe", 1], ["Apple", 3], ["Coal", 5], ["n/a"], ["n/a"]]}
-
-{"Memories": [["Self", "walk", "tree", [["grass_block", "all_around"], ["stone", "far_below"], ["sun", "far_above"], ["horse", "distant_left"]], "n/a"], ["n/a", "n/a", "n/a", [["n/a", "n/a"], ["n/a", "n/a"], ["n/a", "n/a"], ["n/a", "n/a"]], "n/a"], ["n/a", "n/a", "n/a", [["n/a", "n/a"], ["n/a", "n/a"], ["n/a", "n/a"], ["n/a", "n/a"]], "n/a"], ["n/a", "n/a", "n/a", [["n/a", "n/a"], ["n/a", "n/a"], ["n/a", "n/a"], ["n/a", "n/a"]], "n/a"]]}
-
-{"Environment_Behaviors": [["tree", "n/a", "n/a", [["tree", "close_infront"], ["grass_block", "all_around"], ["sun", "far_above"], ["sheep", "semi-close_left"]], "n/a"], ["grass_block", "n/a", "n/a", [["tree", "close_infront"], ["grass_block", "all_around"], ["sun", "far_above"], ["sheep", "semi-close_left"]], "n/a"], ["sun", "n/a", "n/a", [["tree", "close_infront"], ["grass_block", "all_around"], ["sun", "far_above"], ["sheep", "semi-close_left"]], "n/a"], ["sheep", "walk", "player", [["tree", "close_infront"], ["grass_block", "all_around"], ["sun", "far_above"], ["sheep", "semi-close_left"]], "n/a"]]}
-

@@ -1,0 +1,8 @@
+{"Behavior": ["walk", "cobblestone", "close_right", "n/a"], "reasoning": "The player's goal is to collect cobblestone. Since cobblestone is broken and nearby, the player should move closer to it and use the wooden pickaxe to effectively mine it once within range. This will help the player collect the resource needed for their current step in the goal to defeat the Ender Dragon."}
+
+{"Biome": "Taiga_Biome", "Environment": [["cobblestone", "close_right"], ["fox", "far_right"], ["sweet_berry_bush", "distant_infront"], ["spruce_tree", "semi-close_behind"]], "Health": 17, "Hunger": 18, "Inventory": [["spruce_log", 12], ["wooden_axe", 1], ["crafting_table", 1], ["wooden_pickaxe", 2], ["cobblestone", 1], ["n/a"], ["n/a"], ["n/a"], ["n/a"], ["n/a"]], "Armor": ["n/a", "n/a", "n/a", "n/a"]}
+
+{"Memories": [["Self", "walk", "spruce_log", [["spruce_sapling", "far_lowerleft"], ["fox", "distant_infront"], ["sweet_berry_bush", "close_behind"], ["spruce_log", "semi-close_right"]], "n/a"], ["Self", "walk", "spruce_log", [["spruce_sapling", "far_left"], ["fox", "distant_infront"], ["sweet_berry_bush", "semi-close_behind"], ["spruce_log", "semi-close_right"]], "n/a"], ["Self", "walk", "sapling", [["spruce_sapling", "semi-close_left"], ["fox", "close_infront"], ["sweet_berry_bush", "far_behind"], ["sapling", "semi-close_right"]], "n/a"], ["Self", "walk", "spruce_log", [["broken_spruce_log", "close_right"], ["new_spruce_log", "far_right"], ["fox", "semi-close_infront"], ["sweet_berry_bush", "semi-close_behind"]], "n/a"]]}
+
+{"Environment_Behaviors": [["cobblestone", "n/a", "n/a", "n/a"], ["fox", "n/a", "n/a", "n/a"], ["sweet_berry_bush", "n/a", "n/a", "n/a"], ["spruce_tree", "n/a", "n/a", "n/a"]]}
+

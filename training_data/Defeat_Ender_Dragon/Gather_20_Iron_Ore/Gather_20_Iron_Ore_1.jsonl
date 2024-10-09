@@ -1,0 +1,8 @@
+{"Behavior": ["walk", "cobblestones", "close", "n/a"], "reasoning": "The player needs to gather iron ore to progress towards the goal of defeating the Ender Dragon. Currently, there are more cobblestones scattered around, which could potentially lead to a cave or underground area where iron ore can be found. Walking towards the cobblestones might also help discover useful resources and paths for advancing the player's goal."}
+
+{"Biome": "Taiga_Biome", "Environment": [["stone_sword", "far_right"], ["cobblestone", "close_around"], ["fox", "close_behind"], ["spruce_tree", "right"]], "Health": 16, "Hunger": 18, "Inventory": [["spruce_log", 12], ["wooden_axe", 1], ["crafting_table", 1], ["wooden_pickaxe", 2], ["cobblestone", 15], ["stone_pickaxe", 1], ["stone_sword", 1], ["n/a"], ["n/a"], ["n/a"]], "Armor": ["n/a", "n/a", "n/a", "n/a"]}
+
+{"Memories": [["Self", "walk", "spruce_log", [["spruce_sapling", "far_left"], ["fox", "distant_infront"], ["sweet_berry_bush", "semi-close_behind"], ["spruce_log", "semi-close_right"]], "n/a"], ["Self", "walk", "sapling", [["spruce_sapling", "semi-close_left"], ["fox", "close_infront"], ["sweet_berry_bush", "far_behind"], ["sapling", "semi-close_right"]], "n/a"], ["Self", "walk", "fox", [["stone_sword", "close_right"], ["cobblestone", "scattered_around"], ["fox", "semi-close_right"], ["spruce_tree", "distant_left"]], "n/a"], ["Self", "walk", "dirt", [["cobblestone_block", "destroyed"], ["dirt", "close_right_below"], ["fox", "far_right"], ["spruce_tree", "left"]], "n/a"]]}
+
+{"Environment_Behaviors": [["stone_sword", "n/a", "n/a", "n/a"], ["cobblestone", "n/a", "n/a", "n/a"], ["fox", "n/a", "n/a", "n/a"], ["spruce_tree", "n/a", "n/a", "n/a"]]}
+

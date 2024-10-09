@@ -1,0 +1,8 @@
+{"Behavior": ["break", "iron_ore_vein", "close_right", "stone_pickaxe"], "reasoning": "The player needs more iron to craft an iron armor set. There's an iron ore vein close on the right, which can be mined using the stone pickaxe. Breaking the iron ore with the correct tool will ensure that iron ore drops for collection. This is a necessary step before smelting the iron ore to craft iron ingots, which are needed for the armor set."}
+
+{"Biome": "Taiga_Biome", "Environment": [["cave_interior", "around"], ["torch", "infront"], ["cobblestone", "semi-close_left"], ["broken_iron_ore_vein", "close_right"]], "Health": 16, "Hunger": 18, "Inventory": [["spruce_log", 12], ["wooden_axe", 1], ["crafting_table", 1], ["wooden_pickaxe", 2], ["cobblestone", 18], ["stone_pickaxe", 1], ["stone_sword", 1], ["iron_ore", 21], ["n/a"], ["n/a"]], "Armor": ["n/a", "n/a", "n/a", "n/a"]}
+
+{"Memories": [["Self", "walk", "iron_ore", [["cave_interior", "close_infront"], ["torch", "close_right"], ["cobblestone", "close_infront_below"], ["iron_ore_vein", "semi-close_right_infront"]], "n/a"], ["Self", "walk", "torch", [["cave_interior", "around"], ["torch", "close_left"], ["cobblestone", "close_right"], ["iron_ore_vein", "close_behind"]], "n/a"], ["Self", "walk", "minerals-stone", [["cave_interior", "very_close_infront"], ["torch", "close_right"], ["minerals_stone", "close_left"], ["bat", "close_upperleft"]], "n/a"], ["Self", "walk", "cave_interior", [["cave_interior", "semi_close_infront"], ["torch", "very_close_right"], ["iron_ore", "broken"], ["bat", "semi_close_upperright"]], "n/a"]]}
+
+{"Environment_Behaviors": [["cave_interior", "n/a", "n/a", "n/a"], ["torch", "n/a", "n/a", "n/a"], ["cobblestone", "n/a", "n/a", "n/a"], ["iron_ore_vein", "n/a", "n/a", "n/a"]]}
+

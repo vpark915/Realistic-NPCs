@@ -1,0 +1,8 @@
+{"Behavior": ["break", "cobblestone", "close_below", "wooden pickaxe"], "reasoning": "The player is currently on the step to collect 20 cobblestone. With 4 cobblestones already in inventory, the player should continue to break the cobblestone pile that is close by using a wooden pickaxe to increase the cobblestone count towards their goal."}
+
+{"Biome": "Taiga_Biome", "Environment": [["small_cobblestone_pile", "n/a"], ["fox", "far_upperright"], ["sweet_berry_bush", "semi-close_infront"], ["spruce_tree", "semi-close_behind"]], "Health": 17, "Hunger": 18, "Inventory": [["spruce_log", 12], ["wooden_axe", 1], ["crafting_table", 1], ["wooden_pickaxe", 2], ["cobblestone", 5], ["n/a"], ["n/a"], ["n/a"], ["n/a"], ["n/a"]], "Armor": ["n/a", "n/a", "n/a", "n/a"]}
+
+{"Memories": [["Self", "break", "cobblestone", [["cobblestone", "close_right"], ["fox", "semi-close_right"], ["sweet_berry_bush", "distant_infront"], ["spruce_tree", "semi-close_left"]], "wooden_pickaxe"], ["Self", "break", "cobblestone", [["cobblestone", "close_right"], ["fox", "far_right"], ["sweet_berry_bush", "distant_infront"], ["spruce_tree", "semi-close_behind"]], "wooden_pickaxe"], ["Self", "break", "cobblestone", [["cobblestone", "broken"], ["fox", "far_right"], ["sweet_berry_bush", "distant_infront"], ["spruce_tree", "semi-close_behind"]], "wooden pickaxe"], ["Self", "break", "cobblestone", [["cobblestone", "close_right"], ["fox", "far_right"], ["sweet_berry_bush", "distant_infront"], ["spruce_tree", "semi-close_behind"]], "wooden_pickaxe"]]}
+
+{"Environment_Behaviors": [["small_cobblestone_pile", "n/a", "n/a", "n/a"], ["fox", "n/a", "n/a", "n/a"], ["sweet_berry_bush", "n/a", "n/a", "n/a"], ["spruce_tree", "n/a", "n/a", "n/a"]]}
+

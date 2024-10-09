@@ -1,0 +1,8 @@
+{"Behavior": ["break", "iron_ore", "very-close_left", "stone_pickaxe"], "reasoning": "Given the goal is to gather more iron ore and there is iron ore very close on the left, using the stone pickaxe to break it is the most efficient choice. This increases the iron ore count toward reaching the player\u2019s goal of obtaining 20 iron ore."}
+
+{"Biome": "Taiga_Biome", "Environment": [["cave_interior", "semi_close_infront"], ["torch", "very_close_right"], ["iron_ore", "broken"], ["bat", "semi_close_upperright"]], "Health": 16, "Hunger": 18, "Inventory": [["spruce_log", 12], ["wooden_axe", 1], ["crafting_table", 1], ["wooden_pickaxe", 2], ["cobblestone", 16], ["stone_pickaxe", 1], ["stone_sword", 1], ["iron_ore", 9], ["n/a"], ["n/a"]], "Armor": ["n/a", "n/a", "n/a", "n/a"]}
+
+{"Memories": [["Self", "break", "iron_ore", [["cave_interior", "close_infront"], ["torch", "close_right"], ["iron_ore", "very_close_left"], ["bat", "semi_close_upperleft"]], "stone_pickaxe"], ["Self", "break", "iron_ore", [["cave_interior", "close_infront"], ["torch", "close_right"], ["stone", "broken_very_close_left"], ["bat", "semi_close_upperleft"]], "stone_pickaxe"], ["Self", "break", "broken iron ore", [["cave_interior", "close_infront"], ["torch", "close_right"], ["iron_ore", "broken_very_close_left"], ["bat", "semi_close_upperleft"]], "stone pickaxe"], ["Self", "break", "Minerals Stone", [["cave_interior", "close_infront"], ["torch", "close_right"], ["minerals_stone", "very_close_left"], ["bat", "semi_close_upperleft"]], "Stone Pickaxe"]]}
+
+{"Environment_Behaviors": [["cave_interior", "n/a", "n/a", "n/a"], ["torch", "n/a", "n/a", "n/a"], ["bat", "n/a", "n/a", "n/a"], ["broken_stone", "n/a", "n/a", "n/a"]]}
+

@@ -1,0 +1,8 @@
+{"Behavior": ["break", "stone", "close_front", "stone pickaxe"], "reasoning": "The player's current goal is to gather 20 iron ore and they currently have 14. Since the stone in front might be covering more iron ore, breaking it with a stone pickaxe is a logical next step. The stone pickaxe is more efficient and durable than a wooden pickaxe, making it suitable for breaking stones in search of iron ore."}
+
+{"Biome": "Taiga_Biome", "Environment": [["cave_interior", "close_infront"], ["torch", "close_right"], ["iron_ore", "close_infront"], ["bat", "semi-close_upperright"]], "Health": 16, "Hunger": 18, "Inventory": [["spruce_log", 12], ["wooden_axe", 1], ["crafting_table", 1], ["wooden_pickaxe", 2], ["cobblestone", 18], ["stone_pickaxe", 1], ["stone_sword", 1], ["iron_ore", 15], ["n/a"], ["n/a"]], "Armor": ["n/a", "n/a", "n/a", "n/a"]}
+
+{"Memories": [["Self", "break", "stone", [["cave_interior", "very_close_infront"], ["torch", "close_right"], ["bat", "semi-close_upperright"], ["stone", "close_infront"]], "stone_pickaxe"], ["Self", "break", "stone block", [["cave_interior", "close_infront"], ["torch", "close_right"], ["bat", "semi_close_upperleft"], ["stone_block", "very_close_left"]], "stone pickaxe"], ["Self", "break", "stone", [["cave_interior", "close_infront"], ["torch", "close_right"], ["bat", "semi-close_upperright"], ["stone", "very_close_infront"]], "stone pickaxe"], ["Self", "break", "stone", [["broken_stone", "semi-close_below"], ["stone", "close_below"], ["fox", "semi-close_right"], ["spruce_tree", "far_left"]], "wooden_pickaxe"]]}
+
+{"Environment_Behaviors": [["cave_interior", "n/a", "n/a", "n/a"], ["torch", "n/a", "n/a", "n/a"], ["bat", "n/a", "n/a", "n/a"], ["stone", "n/a", "n/a", "n/a"]]}
+

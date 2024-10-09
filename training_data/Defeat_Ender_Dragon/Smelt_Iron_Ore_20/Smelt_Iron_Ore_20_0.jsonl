@@ -1,0 +1,8 @@
+{"Behavior": ["walk", "cave", "close_behind", "n/a"], "reasoning": "The player needs to smelt iron ore, which requires a furnace. Since furnaces are commonly found or placed in caves, the player will walk to the cave interior to potentially find or place a furnace."}
+
+{"Biome": "Taiga_Biome", "Environment": [["cave_interior", "around"], ["torch", "close_left"], ["cobblestone", "close_right"], ["iron_ore_vein", "close_behind"]], "Health": 16, "Hunger": 18, "Inventory": [["spruce_log", 12], ["wooden_axe", 1], ["crafting_table", 1], ["wooden_pickaxe", 2], ["cobblestone", 18], ["stone_pickaxe", 1], ["stone_sword", 1], ["iron_ore", 20], ["n/a"], ["n/a"]], "Armor": ["n/a", "n/a", "n/a", "n/a"]}
+
+{"Memories": [["Self", "right_click", "wooden_pickaxe", [["wooden_pickaxe", "close_right"], ["fox", "semi-close_upperright"], ["sweet_berry_bush", "distant_behind"], ["spruce_sapling", "semi-close_left"]], "n/a"], ["Self", "craft", "stone_pickaxe", [["cobblestone", "scattered_around"], ["hole", "close_below"], ["fox", "semi-close_right"], ["spruce_tree", "distant_left"]], "crafting_table"], ["Self", "craft", "stone_sword", [["crafting_table", "close_right"], ["cobblestone", "scattered_around"], ["fox", "semi-close_right"], ["spruce_tree", "distant_left"]], "crafting_table"], ["Self", "break", "iron_ore", [["cave_interior", "close_right"], ["torch", "close_left"], ["cobblestone", "close_right"], ["iron_ore_vein", "close_infront"]], "stone_pickaxe"]]}
+
+{"Environment_Behaviors": [["cave_interior", "n/a", "n/a", "n/a"], ["torch", "n/a", "n/a", "n/a"], ["cobblestone", "n/a", "n/a", "n/a"], ["iron_ore_vein", "n/a", "n/a", "n/a"]]}
+

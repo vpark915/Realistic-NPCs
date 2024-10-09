@@ -1,0 +1,8 @@
+{"Behavior": ["break", "cobblestone", "close_below", "wooden pickaxe"], "reasoning": "The player's current task is to collect cobblestone, they have a wooden pickaxe suitable for mining cobblestone efficiently. Additionally, cobblestone is close below and the player only needs three more cobblestones to reach their goal, so breaking it is the most logical next step."}
+
+{"Biome": "Taiga_Biome", "Environment": [["stone", "close_below"], ["dirt", "semi-close_below"], ["fox", "close_right"], ["spruce_tree", "far_left"]], "Health": 17, "Hunger": 18, "Inventory": [["spruce_log", 12], ["wooden_axe", 1], ["crafting_table", 1], ["wooden_pickaxe", 2], ["cobblestone", 18], ["n/a"], ["n/a"], ["n/a"], ["n/a"], ["n/a"]], "Armor": ["n/a", "n/a", "n/a", "n/a"]}
+
+{"Memories": [["Self", "break", "cobblestone", [["cobblestone", "close_below"], ["dirt", "close_right"], ["fox", "semi-close_right"], ["spruce_tree", "far_left"]], "wooden_pickaxe"], ["cobblestone", "n/a", "n/a", [["cobblestone", "close_below"], ["dirt", "close_right"], ["fox", "semi-close_right"], ["spruce_tree", "far_left"]], "n/a"], ["broken_stone", "n/a", "n/a", [["cobblestone", "close_below"], ["broken_stone", "semi-close_below"], ["fox", "semi-close_right"], ["spruce_tree", "far_left"]], "n/a"], ["fox", "n/a", "n/a", [["cobblestone", "close_below"], ["broken_stone", "semi-close_below"], ["fox", "semi-close_right"], ["spruce_tree", "far_left"]], "n/a"]]}
+
+{"Environment_Behaviors": [["cobblestone", "n/a", "n/a", "n/a"], ["stone", "n/a", "n/a", "n/a"], ["fox", "walk", "n/a", "n/a"], ["spruce_tree", "n/a", "n/a", "n/a"]]}
+
